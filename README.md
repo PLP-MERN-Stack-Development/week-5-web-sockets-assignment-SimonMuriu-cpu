@@ -117,7 +117,7 @@ socketio-chat/
 - Building a Chat Application with Socket.io
 
 **Deployment link:**
-https://real-time-chatapp-socket-io.netlify.app/
+https://real-time-chatapp-socket-io.netlify.app/ 
 
 
 
