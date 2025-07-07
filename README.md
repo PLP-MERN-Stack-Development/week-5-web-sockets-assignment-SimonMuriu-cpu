@@ -77,7 +77,6 @@ Add your images or screen recordings below (chat UI, private chat, typing indica
 
 
 🧱 **Project Structure**
-
 socketio-chat/
 ├── client/                 # React front-end
 │   ├── public/             # Static assets
@@ -101,6 +100,7 @@ socketio-chat/
 
 
 
+
 🧪 **Submission Requirements Checklist**
  - Complete server and client code
  - README with project overview
@@ -115,6 +115,10 @@ socketio-chat/
 - React Documentation
 - Express.js Documentation
 - Building a Chat Application with Socket.io
+
+**Deployment link:**
+https://real-time-chatapp-socket-io.netlify.app/
+
 
 
 👨‍💻 **Author**
